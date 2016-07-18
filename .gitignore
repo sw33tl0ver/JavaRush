@@ -3,6 +3,15 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# InteliJ IDEA files
+.idea/
+
+# Compiled files
+out/
+
+# JavaRush secret key file
+src/JavaRushPlugin.properties
+
 # Package Files #
 *.jar
 *.war
